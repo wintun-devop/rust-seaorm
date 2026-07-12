@@ -25,3 +25,4 @@ yarn-error.log*
 /target
 
 /migration/target
+/src/models/migration/target
